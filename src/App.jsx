@@ -8,6 +8,8 @@ import { About } from "./components/About";
 
 import { Footer } from "./components/Footer";
 import { Contacts } from "./components/Contacts.jsx";
+import { Route } from "react-router-dom";
+import { Routes } from "react-router-dom";
 
 function App() {
   return (
@@ -20,22 +22,30 @@ function App() {
         {/* <!-- nav bar --> */}
         <Navbar />
 
+        <Routes>
+          <Route path="/" element={<Hero />} />
+          <Route path="skills" element={<Skill />} />
+          <Route path="project" element={<Project />} />
+          <Route path="about" element={<About />} />
+          <Route path="contact" element={<Contacts />} />
+        </Routes>
+
         {/* <!-- hero section --> */}
         {/* Banner section */}
 
-        <Hero />
+        {/* <Hero /> */}
 
         {/* <!-- Skills --> */}
-        <Skill />
+        {/* <Skill /> */}
 
         {/* <!-- Project --> */}
-        <Project />
+        {/* <Project /> */}
 
         {/* <!-- about me  --> */}
-        <About />
+        {/* <About /> */}
 
         {/* <!-- contact --> */}
-        <Contacts />
+        {/* <Contacts /> */}
 
         {/* <!-- footer --> */}
         <Footer />
