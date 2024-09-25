@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-react%20/static/css/main.02996235.css",
+    "main.js": "/portfolio-react%20/static/js/main.725d69de.js",
+    "static/js/453.906b0208.chunk.js": "/portfolio-react%20/static/js/453.906b0208.chunk.js",
+    "static/media/parallex-effect.png": "/portfolio-react%20/static/media/parallex-effect.a562481b077780aa0ab6.png",
+    "static/media/quiz-javacript.png": "/portfolio-react%20/static/media/quiz-javacript.935ab6eaadb45a7f1c6a.png",
+    "static/media/suitcase-3247292_1280.png": "/portfolio-react%20/static/media/suitcase-3247292_1280.dd144aaa5eac79896153.png",
+    "static/media/ntdl.png": "/portfolio-react%20/static/media/ntdl.f961ef8922373f46b923.png",
+    "static/media/milan.png": "/portfolio-react%20/static/media/milan.6e28a89ca7c575c4e9c2.png",
+    "static/media/calculator-react.png": "/portfolio-react%20/static/media/calculator-react.09044f9416880a0c96d3.png",
+    "index.html": "/portfolio-react%20/index.html",
+    "main.02996235.css.map": "/portfolio-react%20/static/css/main.02996235.css.map",
+    "main.725d69de.js.map": "/portfolio-react%20/static/js/main.725d69de.js.map",
+    "453.906b0208.chunk.js.map": "/portfolio-react%20/static/js/453.906b0208.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02996235.css",
+    "static/js/main.725d69de.js"
+  ]
+}
