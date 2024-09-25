@@ -1,6 +1,5 @@
 import React from "react";
 import milan from "../assest/milan.png";
-import { Layout } from "./Layout";
 
 export const Hero = () => {
   return (
